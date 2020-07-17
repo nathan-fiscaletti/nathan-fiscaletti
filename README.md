@@ -6,12 +6,21 @@ I've been developing in anything I could get my hands on since 2008. This includ
 
 #### Some projects I'm most proud of
 
-|Application|Description|
-|---|---|
-|[TeamSpeak Integration](https://invisioncommunity.com/files/file/9079-teamspeak-integration/)|An Invision Community application for integrating TeamSpeak into your forums|
-|[Spackle](https://github.com/nathan-fiscaletti/spackle)|A simple templating engine for PHP.|
-|[Galago](https://github.com/nathan-fiscaletti/galago)|A library comprised of REST components for wrapping Go's HTTP libraries.|
-|[fa-android](https://github.com/nathan-fiscaletti/fa-android)|An Android library for integrating [Font Awesome](https://fontawesome.com/) into your Android application.|
+* [TeamSpeak Integration](https://invisioncommunity.com/files/file/9079-teamspeak-integration/)
+
+   An Invision Community application for integrating TeamSpeak into your forums 
+
+* [Spackle](https://github.com/nathan-fiscaletti/spackle)
+
+   A simple templating engine for PHP.
+
+* [Galago](https://github.com/nathan-fiscaletti/galago) 
+
+   A library comprised of REST components for wrapping Go's HTTP libraries.
+
+* [fa-android](https://github.com/nathan-fiscaletti/fa-android)
+
+   An Android library for integrating [Font Awesome](https://fontawesome.com/) into your Android application.
 
 > View my [Github Repositories](https://github.com/nathan-fiscaletti/repositories) to see more of my projects
 
