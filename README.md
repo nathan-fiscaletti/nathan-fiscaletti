@@ -14,7 +14,7 @@ I've been developing in anything I could get my hands on since 2008. This includ
 
    A simple templating engine for PHP.
 
-* [Galago](https://github.com/nathan-fiscaletti/galago) 
+* [GalaGo](https://github.com/nathan-fiscaletti/galago) 
 
    A library comprised of REST components for wrapping Go's HTTP libraries.
 
