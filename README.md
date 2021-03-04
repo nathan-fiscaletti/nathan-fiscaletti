@@ -1,10 +1,10 @@
-### Hey, I'm Nathan 👋
+### Hey, I'm Nathan
 
 I'm currently working as a lead developer for an upcoming VPN software solution from a startup based out of Southern California.
 
 I've been developing in anything I could get my hands on since 2008. This includes Web applications, native Android and iOS applications, native macOS applications, Windows applications using C#/WPF and WinForms, PHP libraries including a lot of experience with the Invision Community PHP framework, game development using the Unity and UE4 game engines as well as some very basic game engine development of my own, and much more.
 
-### Some projects I'm most proud of 🚀
+### Some projects I'm most proud of
 
 * [TeamSpeak Integration](https://invisioncommunity.com/files/file/9079-teamspeak-integration/)
 
@@ -24,7 +24,7 @@ I've been developing in anything I could get my hands on since 2008. This includ
 
 > View my [Github Repositories](https://github.com/nathan-fiscaletti/repositories) to see more of my projects
 
-### My current focus 👨‍💻
+### My current focus
 
 I'm currently focusing on GoLang, C and Java development.
 
