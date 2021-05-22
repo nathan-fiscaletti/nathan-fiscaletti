@@ -2,7 +2,7 @@
 
 I'm currently working as a lead developer for an upcoming VPN software solution from a startup based out of Southern California.
 
-I've been developing in anything I could get my hands on since 2008. This includes Web applications, native Android and iOS applications, native macOS applications, Windows applications using C#/WPF and WinForms, PHP libraries including a lot of experience with the Invision Community PHP framework, game development using the Unity and UE4 game engines as well as some very basic game engine development of my own, and much more.
+I've been developing in anything I could get my hands on since 2006. This includes Web applications, native Android and iOS applications, native macOS applications, Windows applications using C#/WPF and WinForms, PHP libraries including a lot of experience with the Invision Community PHP framework, game development using the Unity and UE4 game engines as well as some very basic game engine development of my own, and much more.
 
 ### Some projects I'm most proud of
 
