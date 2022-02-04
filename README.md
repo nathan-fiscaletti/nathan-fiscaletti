@@ -1,8 +1,8 @@
 ### Hi there! 👋
 ##### I hope you find something useful here 😊
 
-![GitHub followers](https://img.shields.io/github/followers/nathan-fiscaletti?label=Follow&style=social)
 [![Sponsor Me!](https://img.shields.io/badge/%F0%9F%92%B8-Sponsor%20Me!-blue)](https://github.com/sponsors/nathan-fiscaletti)
+![GitHub followers](https://img.shields.io/github/followers/nathan-fiscaletti?label=Follow&style=social)
 
 ![Metrics](https://metrics.lecoq.io/nathan-fiscaletti)
 
