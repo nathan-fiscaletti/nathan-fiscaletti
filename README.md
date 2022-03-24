@@ -1,6 +1,6 @@
 <h3 align="center">Hi there! 👋</h3>
 
-<p align="center">I'm Nathan. I am from Omaha Nebraska and currently working at <a href="https://waitrapp.com/">Waitr</a>.<br />
+<p align="center">I'm Nathan. I am from Omaha Nebraska and currently working at <a href="https://github.com/WaitrInc">@WaitrInc</a>.<br />
 In my free time I work on all sorts of various open-source projects.</p>
 
 <p align="center">
