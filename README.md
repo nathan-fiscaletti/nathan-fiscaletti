@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
-I'm Nathan. I am from Omaha Nebraska and currently working at [Waitr](https://waitrapp.com/). In my free time I work on all sorts of various open-source projects.
+I'm Nathan. I am from Omaha Nebraska and currently working at [Waitr](https://waitrapp.com/).<br />
+In my free time I work on all sorts of various open-source projects.
 
 [![Sponsor Me!](https://img.shields.io/badge/%F0%9F%92%B8-Sponsor%20Me!-blue)](https://github.com/sponsors/nathan-fiscaletti)
 ![GitHub followers](https://img.shields.io/github/followers/nathan-fiscaletti?label=Follow&style=social)
