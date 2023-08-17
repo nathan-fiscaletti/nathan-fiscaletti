@@ -1,15 +1,12 @@
 <h3 align="center">Hi there! 👋</h3>
 
-<p align="center">I'm Nathan. I am from Omaha Nebraska and currently working at <a href="https://github.com/SmallPond-co">@SmallPond-Co</a>.<br />
-In my free time I work on all sorts of various open-source projects.</p>
 
-<p align="center">
-  <a href="https://github.com/sponsors/nathan-fiscaletti">
+<p align="center">Seasoned Senior Software Engineer | Open Source Enthusiast | Tech Leader | 13 Years of Crafting Digital Solutions<br /><br /><a href="https://github.com/sponsors/nathan-fiscaletti">
     <img src="https://img.shields.io/badge/%F0%9F%92%B8-Sponsor%20Me!-blue" alt="Sponsor Me!" />
   </a>
   <a href="https://wakatime.com/@7fe9ed7e-a6f8-44c6-8930-b42e8682e429"><img src="https://wakatime.com/badge/user/7fe9ed7e-a6f8-44c6-8930-b42e8682e429.svg" alt="Total time coded since Jul 21 2022" /></a>
-  <img src="https://img.shields.io/github/followers/nathan-fiscaletti?label=Follow&style=social" alt="Github Followers" />
-</p>
+  <img src="https://img.shields.io/github/followers/nathan-fiscaletti?label=Follow&style=social" alt="Github Followers" /><br /><br />I'm Nathan. I live in Omaha Nebraska and currently working at <a href="https://github.com/SmallPond-co">@SmallPond-Co</a>.<br />
+In my free time I work on all sorts of various open-source projects.</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
