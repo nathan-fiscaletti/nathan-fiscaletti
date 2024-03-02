@@ -9,7 +9,7 @@
         <img src="https://wakatime.com/badge/user/7fe9ed7e-a6f8-44c6-8930-b42e8682e429.svg" alt="Total time coded since Jul 21 2022" />
     </a>
     <img src="https://img.shields.io/github/followers/nathan-fiscaletti?label=Follow&style=social" alt="Github Followers" /><br /><br />
-    I'm Nathan. I live in Omaha Nebraska and currently working at <a href="https://github.com/SmallPond-co">@SmallPond-Co</a>.<br />In my free time I work on all sorts of various open-source projects.</p>
+    I'm Nathan. I live in Omaha Nebraska and currently working at <a href="https://pulsarinformatics.com/">Pulsar Informatics</a>.<br />In my free time I work on all sorts of various open-source projects.</p>
 
 <h3 align="center">Connect with me</h3>
 
