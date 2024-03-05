@@ -19,17 +19,5 @@
 <a href="mailto:nate.fiscaletti@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="80" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Github Stats" src="https://github-readme-stats-lake-sigma.vercel.app/api?username=nathan-fiscaletti&show_icons=true&include_all_commits=true&count_private=true&line_height=21" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Most Used Languages" src="https://github-readme-stats-lake-sigma.vercel.app/api/top-langs/?username=nathan-fiscaletti&show_icons=true&line_height=27&langs_count=6&hide=html&layout=compact" />
-  </a>
-</p>
-
 <!-- ![Metrics](https://metrics.lecoq.io/nathan-fiscaletti) -->
 
