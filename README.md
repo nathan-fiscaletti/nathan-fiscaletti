@@ -1,7 +1,7 @@
 <h3 align="center">Hi there! 👋</h3>
 
 <p align="center">
-    Seasoned Senior Software Engineer | Open Source Enthusiast | 15 Years of Crafting Digital Solutions<br /><br />
+    Seasoned Senior Software Engineer | Open Source Enthusiast<br>18 Years of Crafting Digital Solutions<br /><br />
     <a href="https://github.com/sponsors/nathan-fiscaletti">
         <img src="https://img.shields.io/badge/%F0%9F%92%B8-Sponsor%20Me!-blue" alt="Sponsor Me!" />
     </a>
