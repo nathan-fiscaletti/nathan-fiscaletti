@@ -5,7 +5,7 @@
     <a href="https://github.com/sponsors/nathan-fiscaletti"><img src="https://img.shields.io/badge/%F0%9F%92%B8-Sponsor%20Me!-blue" alt="Sponsor Me!" /></a>
     <a href="https://wakatime.com/@7fe9ed7e-a6f8-44c6-8930-b42e8682e429"><img src="https://wakatime.com/badge/user/7fe9ed7e-a6f8-44c6-8930-b42e8682e429.svg" alt="Total time coded since Jul 21 2022" /></a>
     <img src="https://img.shields.io/github/followers/nathan-fiscaletti?label=Follow&style=social" alt="Github Followers" /><br /><br />
-    Hi, I'm Nathan! I live in Omaha Nebraska and currently work at <a href="https://pulsarinformatics.com/">Pulsar Informatics</a>.<br />In my free time I work on all sorts of various open-source projects.</p>
+    Hi, I'm Nathan! I live in Omaha Nebraska and currently work at <a href="https://pulsarinformatics.com/">Pulsar Informatics</a>.<br />In my free time I like to work on various open-source projects.</p>
 
 <h3 align="center">Connect with me</h3>
 
